@@ -1,0 +1,27 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: #222222;
+}
+
+.club {
+  color: white;
+  background: #6CB4EE;
+  margin: auto;
+  width: 75%;
+  height: 2in;
+  border-radius: 0.5in;
+  border: 10px solid white;
+}
+.club img {
+  float: left
+}
+
+#title {
+  margin: auto;
+  color: white;
+  padding: 10px;
+}
